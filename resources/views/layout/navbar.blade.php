@@ -13,7 +13,7 @@
             <a class="nav-link" href="/about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/second">Second</a>
+            <a class="nav-link" href="/first">First</a>
           </li>
         </ul>
       </div>

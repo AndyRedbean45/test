@@ -21,6 +21,6 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/second', function () {
-    return view('second');
+Route::get('/first', function () {
+    return view('first');
 });
